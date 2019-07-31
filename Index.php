@@ -16,7 +16,7 @@
 <p style="text-align:right;"> Inspired by the idea that everything should be as comfy as a tee,</p>
 <p style="text-align:right;">our new texture & thread collection combines truly touchable fabrics </p>
 <p style="text-align:right;"> with pulled-together shapes.Made of stretchy jazquard, this just </p>
-<p style="text-align:right;"> -a-touch-cropped top ties flatteringly to one side.</p>
+<p style="text-align:right;"> -a-touch-cropped top ties flatteringly to one side.1</p>
    
 
     <p style="font-size:200%;text-align:center;">BEAR WOODS T-SHIRT</p>
