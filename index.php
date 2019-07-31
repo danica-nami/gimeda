@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>For Sale</title>
-<body style="background-color:lightpink;">
+<body>
 <i>
 <b>
 <img src="123.png"style="width:50px;height:50px;>
@@ -18,8 +18,7 @@
 <p style="text-align:right;"> with pulled-together shapes.Made of stretchy jazquard, this just </p>
 <p style="text-align:right;"> -a-touch-cropped top ties flatteringly to one side.1</p>
    
-
-    <p style="font-size:200%;text-align:center;">BEAR WOODS T-SHIRT</p>
+<p style="font-size:200%;text-align:center;">BEAR WOODS T-SHIRT</p>
     
 <footer>
   <p>Posted by: Danica Gimeda</p>
