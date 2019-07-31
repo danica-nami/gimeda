@@ -21,7 +21,11 @@
 
     <p style="font-size:200%;text-align:center;">BEAR WOODS T-SHIRT</p>
     
-
+<footer>
+  <p>Posted by: Danica Gimeda</p>
+  <p>Contact information: <a href="monami.mandora01@gmail.com">
+  facebook.com</a>.</p>
+</footer>
 
 
 
