@@ -1,0 +1,33 @@
+<!doctype html>
+
+<html>
+<head>
+ 
+<title>Reset</title>
+ 
+</head>
+ 
+<body>
+ 
+
+<h3 style="text-align:center;">Log in</h3>
+
+<form  style="text-align:center;">
+
+Enter Email Address:<br>
+ 
+<input type="text"
+ 
+name="Enter Email Address"><br>
+
+</br>
+</form>
+ 
+<a href="https://gimedada.herokuapp.com/" <button>Reset Password
+ </button></a>
+
+
+
+ </body>
+
+ </html>
