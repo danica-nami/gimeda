@@ -7,7 +7,7 @@
  
 </head>
  
-<body>
+<body background:"bg.jpg">
  
 
 <h1 style="text-align:center;">Log in</h1>
